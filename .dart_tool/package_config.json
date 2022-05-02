@@ -2,10 +2,40 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "async",
+      "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/async-2.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/path-1.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///home/sven/.pub-cache/hosted/pub.dartlang.org/watcher-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
     },
     {
       "name": "fso",
@@ -14,7 +44,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-05-02T11:48:55.141683Z",
+  "generated": "2022-05-02T12:11:25.745719Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
